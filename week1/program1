@@ -1,0 +1,9 @@
+1 def linear_search(a, x):
+  2     for i in range(len(a)):
+  3         if a[i] == x:
+  4             return i
+  5     return -1
+  6 a = [1, 3, 7, 11, 88, 14]
+  7 x = 11
+  8 i = linear_search(a, x)
+  9 print("the element is in position",i)
