@@ -1,0 +1,54 @@
+#Write a program to demonstrate different number data types in Python
+program
+a=2
+print(type(a))
+b=2.3
+print(type(b))
+c=2+7j
+print(type(c))
+output
+
+<class 'int'>
+<class 'float'>
+<class 'complex'>
+
+
+#Write a program to perform different Arithmetic Operations on numbers in Python. 
+program
+
+a=20
+b=23
+print("sum is",a+b)
+print("difference is",a-b)
+print("multiplication is",a*b)
+print("division is",a/b)
+
+output
+sum is 43
+difference is -3
+multiplication is 460
+division is 0.8695652173913043
+
+
+#Write a program to create, concatenate and print a string and accessing sub-string from a given string.
+string1='hello'
+string2='world'
+print(string1)
+print(string2)
+print(string1+' '+string2)
+output
+hello
+world
+hello world
+
+
+#.Write a python script to print the current date in the following format “Sun May 29 02:26:23 IST 2017”
+
+
+
+
+
+
+
+
+
